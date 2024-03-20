@@ -1,4 +1,4 @@
-###About 
+#About 
 .Creating a search bar and adding a delete option, so that we can sort the people/list elements and delete them. 
 
 # functionalities  added
