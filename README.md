@@ -1,4 +1,7 @@
-# Class Component and State Part 2
+###About 
+.Creating a search bar and adding a delete option, so that we can sort the people/list elements and delete them. 
+
+# functionalities  added
 
 - Searchable Users List
   - Searching User
